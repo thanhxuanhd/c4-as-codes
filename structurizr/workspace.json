@@ -2,71 +2,179 @@
   "id" : 1,
   "name" : "Name",
   "description" : "Description",
-  "lastModifiedDate" : "2023-04-22T09:44:14Z",
+  "lastModifiedDate" : "2023-04-24T17:45:10Z",
   "lastModifiedAgent" : "structurizr-javascript",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgIyBBY3RvcgogICAgICAgIHB1YmxpY1VzZXIgPSBwZXJzb24gIlB1YmxpYyBVc2VyIiAKICAgICAgICBhdXRob3JpemVkVXNlciA9IHBlcnNvbiAiQXV0aG9yaXplZCBVc2VyIgoKICAgICAgICBhdXRob3JpemF0aW9uU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIkF1dGhvcml6YXRpb24gU3lzdGVtIiAiRm9yIGF1dGhvcml6YXRpb24gcHVycG9zZXMiICJFeHRlcm5hbCBTeXN0ZW0iCiAgICAgICAgcHVibGlzaGVyU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIlB1Ymxpc2hlciBTeXN0ZW0iICJHaXZpbmcgZGV0YWlscyBhYm91dCBib29rcyBwdWJsaXNoZWQgYnkgdGhlbSIgIkV4dGVybmFsIFN5c3RlbSIKCiAgICAgICAgYXBwbGljYXRpb24gPSBncm91cCAiQXBwbGljYXRpb24iIHsKICAgICAgICAgICAgIyBCb29rIFN0cm9yZSBTeXN0ZW0KICAgICAgICAgICAgICAgIGJvb2tTdG9yZVN5c3RlbSA9IHNvZnR3YXJlU3lzdGVtICJCb29rIFN0cm9yZSBTeXN0ZW0iIHsgICAgICAgICAKICAgICAgICAgICAgICAgIGJvb2tzdG9yZSA9IGdyb3VwICJBcHBsaWNhdGlvbiIgewogICAgICAgICAgICAgICAgICAgIHNlYXJjaFdlYkFQSSA9IGNvbnRhaW5lciAiU2VhcmNoIFdlYiBBUEkiICJEZXZlbG9wZWQgd2l0aCBHbyIKICAgICAgICAgICAgICAgICAgICBhZG1pbldlYkFQSSA9IGNvbnRhaW5lciAiQWRtaW4gV2ViIEFQSSIgIkRldmVsb3BlZCB3aXRoIEdvIiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VCb29rID0gY29tcG9uZW50ICJbc2VydmljZS5Cb29va10iCiAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VBdXRob3JpemVyID0gY29tcG9uZW50ICJbc2VydmljZS5BdXRob3JpemVyXSIKICAgICAgICAgICAgICAgICAgICAgICAgc2VydmljZUV2ZW50c1B1Ymxpc2hlciA9IGNvbXBvbmVudCAiW3NlcnZpY2UuRXZlbnRzUHVibGlzaGVyXSIgIkl0IHB1Ymxpc2hlcyBib29rcy1yZWxhdGVkIGV2ZW50cyB0byBFdmVudHMgUHVibGlzaGVyIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBwdWJsaWNXZWJBUEkgPSBjb250YWluZXIgIlB1YmxpYyBXZWIgQVBJIgogICAgICAgICAgICAgICAgICAgIGVsYXN0aWNTZWFyY2hFdmVudHNDb25zdW1lciA9IGNvbnRhaW5lciAiRWxhc3RpY1NlYXJjaCBFdmVudHMgQ29uc3VtZXIiICJEZXZlbG9wZWQgd2l0aCBHbyIKICAgICAgICAgICAgICAgICAgICBzZWFyY2hEYXRhYmFzZSA9IGNvbnRhaW5lciAiRWxhc3RpYyIgIkVsYXN0aWMgU2VhcmNoIERhdGFiYXNlIiAiRGF0YWJhc2UiCiAgICAgICAgICAgICAgICAgICAgcG9zdGdyZVNRTERhdGFiYXNlID0gY29udGFpbmVyICJwb3N0Z3JlU1FMIiAiUmVhZC9Xcml0ZSBSZWxhdGlvbmFsIERhdGFiYXNlIFN0b3JlcyBib29rcyBkZXRhaWwiICJEYXRhYmFzZSIKICAgICAgICAgICAgICAgICAgICByZWFkZXJDYWNoZSA9IGNvbnRhaW5lciAiUmVhZGVyIENhY2hlOiBDYWNoZXMgYm9va3MgZGV0YWlscyIgIk1lbWNhY2hlZCIgIkRhdGFiYXNlIgogICAgICAgICAgICAgICAgICAgIHB1Ymxpc2hlclJlY3VycmVudFVwZGF0ZSA9IGNvbnRhaW5lciAiUHVibGlzaGVyIFJlY3VycmVudCBVcGRhdGUiCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgYm9va0thZmthU3lzdGVtID0gY29udGFpbmVyICJCb29rIEthZmthIFN5c3RlbSIgIkFwYWNoZSBLYWZrYSAzLjAiICJIYW5kbGVzIGJvb2stcmVsYXRlZCBkb21haW4gZXZlbnRzIiAiRXh0ZXJuYWwgU3lzdGVtIgogICAgICAgICAgICB9CgogICAgICAgICAgICAjIFJlbGF0aW9uc2hpcAogICAgICAgICAgICBwdWJsaWNVc2VyIC0+IGJvb2tTdG9yZVN5c3RlbSAiUHVibGljIFVzZXIiCiAgICAgICAgICAgIGJvb2tTdG9yZVN5c3RlbSAtPiBhdXRob3JpemF0aW9uU3lzdGVtICAiRXh0ZXJuYWwgQXV0aG9yaXphdGlvbiBTeXN0ZW0gZm9yIGF1dGhvcml6YXRpb24gcHVycG9zZXMiCiAgICAgICAgCiAgICAgICAgICAgICMgTGV2ZWwgMgogICAgICAgICAgICBzZWFyY2hXZWJBUEkgLT4gc2VhcmNoRGF0YWJhc2UgIlVzZSBFbGFzdGljU2VhcmNoIGFzIHRoZSBTZWFyY2ggRGF0YWJhc2UgZm9yIHNlYXJjaGluZyByZWFkLW9ubHkgcmVjb3JkcyIgewogICAgICAgICAgICAgICAgdGFncyAiSHR0cHMgUmVxdWVzdCIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgYWRtaW5XZWJBUEkgLT4gcG9zdGdyZVNRTERhdGFiYXNlICJSZWFkIGRhdGEgZnJvbSBhbmQgd3JpdGUgZGF0YSB0byBSZWFkL1dyaXRlIFJlbGF0aW9uYWwgRGF0YWJhc2UiCiAgICAgICAgICAgIGFkbWluV2ViQVBJIC0+IGJvb2tLYWZrYVN5c3RlbSAiUHVibGlzaGVzIEV2ZW50cyB0byBleHRlcm5hbCBCb29rcyBLYWZrYSBjb250YWluZXIiCiAgICAgICAgICAgIGFkbWluV2ViQVBJIC0+IHB1Ymxpc2hlclJlY3VycmVudFVwZGF0ZSAiSXQgdXNlcyB0aGUgQWRtaW4gV2ViIEFQSSBmb3IgdXBkYXRpbmcgdGhhdCBkYXRhIgogICAgICAgICAgICBhZG1pbldlYkFQSSAtPiBhdXRob3JpemF0aW9uU3lzdGVtICJBdXRob3JpemVkIGJ5IGV4dGVybmFsIEF1dGhvcml6YXRpb24gU3lzdGVtLiIKCiAgICAgICAgICAgIHB1YmxpY1dlYkFQSSAtPiBwb3N0Z3JlU1FMRGF0YWJhc2UgIkl0IHJlYWRzIGRhdGEgZnJvbSBSZWFkL1dyaXRlIFJlbGF0aW9uYWwgRGF0YWJhc2UiCiAgICAgICAgICAgIHB1YmxpY1dlYkFQSSAtPiByZWFkZXJDYWNoZSAiSXQgcmVhZHMvd3JpdGUgZGF0YSB0byBSZWFkZXIgQ2FjaGUgZGF0YWJhc2UiCgogICAgICAgICAgICBwdWJsaWNVc2VyIC0+IHB1YmxpY1dlYkFQSSAiQWxsb3dzIFB1YmxpYyB1c2VycyBnZXR0aW5nIGJvb2tzIGRldGFpbCIKCiAgICAgICAgICAgIGF1dGhvcml6ZWRVc2VyIC0+IHNlYXJjaFdlYkFQSSAiQWxsb3dzIG9ubHkgYXV0aG9yaXplZCB1c2VycyBzZWFyY2hpbmcgYm9va3MgcmVjb3JkcyB2aWEgSFRUUHMgaGFuZGxlcnMiIHsKICAgICAgICAgICAgICAgIHRhZ3MgIkh0dHBzIFJlcXVlc3QiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgYXV0aG9yaXplZFVzZXIgLT4gYWRtaW5XZWJBUEkgIkFsbG93cyBvbmx5IGF1dGhvcml6ZWQgdXNlcnMgYWRtaW5pc3RlcmluZyBib29rcyBkZXRhaWxzIHZpYSBIVFRQIGhhbmRsZXJzIiB7CiAgICAgICAgICAgICAgICB0YWdzICJIdHRwIFJlcXVlc3QiCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICMgYXV0aG9yaXplZFVzZXIgLT4gYXV0aG9yaXphdGlvblN5c3RlbSAiQXV0aG9yaXplZCB1c2VyIgoKICAgICAgICAgICAgZWxhc3RpY1NlYXJjaEV2ZW50c0NvbnN1bWVyIC0+IGJvb2tLYWZrYVN5c3RlbSAiTGlzdGVuaW5nIHRvIEthZmthIGRvbWFpbiBldmVudHMgYW5kIHdyaXRlIHB1Ymxpc2hlciB0byBTZWFyY2ggRGF0YWJhc2UgZm9yIHVwZGF0aW5nIgoKICAgICAgICAgICAgcHVibGlzaGVyUmVjdXJyZW50VXBkYXRlIC0+IHB1Ymxpc2hlclN5c3RlbSAiTGlzdGVuaW5nIHRvIGV4dGVybmFsIGV2ZW50cyBjb21pbmcgZnJvbSBQdWJsaXNoZXIgU3lzdGVtIgogICAgICAgICAgICBwdWJsaXNoZXJSZWN1cnJlbnRVcGRhdGUgLT4gcG9zdGdyZVNRTERhdGFiYXNlICJVcGRhdGVzIHRoZSBSZWFkL1dyaXRlIFJlbGF0aW9uYWwgRGF0YWJhc2Ugd2l0aCBkZXRhaWwgZnJvbSBQdWJsaXNoZXIgc3lzdGVtIgogICAgICAgICAgICBwdWJsaXNoZXJSZWN1cnJlbnRVcGRhdGUgLT4gYm9va0thZmthU3lzdGVtICJLYWZrYSIKCiAgICAgICAgICAgICMgTGV2ZWwgMwogICAgICAgICAgICBhdXRob3JpemVkVXNlciAtPiBzZXJ2aWNlQm9vayAiQWxsb3cgYWRtaW5pc3RlcmluZyBib29rcyBkZXRhaWxzIgogICAgICAgICAgICBzZXJ2aWNlQm9vayAtPiBzZXJ2aWNlQXV0aG9yaXplciAiQXV0aG9yaXplcyBib29rcyBkZXRhaWwgYnkgQXV0aG9yaXphdGlvbiBTZXJ2aWMiCiAgICAgICAgICAgIHNlcnZpY2VBdXRob3JpemVyIC0+IGF1dGhvcml6YXRpb25TeXN0ZW0gIkF1dGhvcml6YXRpb24gU2VydmljZSBhbGxvd3MgYXV0aG9yaXppbmcgdXNlcnMgYnkgdXNpbmcgZXh0ZXJuYWwgQXV0aG9yaXphdGlvbiBTeXN0ZW0iCiAgICAgICAgICAgIHNlcnZpY2VFdmVudHNQdWJsaXNoZXIgLT4gYm9va0thZmthU3lzdGVtICJFdmVudHMgUHVibGlzaGVyIHB1Ymxpc2hlcyBib29rcy1yZWxhdGVkIGRvbWFpbiBldmVudHMgdG8gZXh0ZXJuYSBCb29rcyBLYWZrYSBjb250YWluZXIiCiAgICAgICAgICAgIHNlcnZpY2VCb29rIC0+IHBvc3RncmVTUUxEYXRhYmFzZSAiUmVhZCBmb3JtIGFuZCB3cml0ZSBkYXRhIHRvIFJlYWQvV3JpdGUgUmVsYXRpb25hbCBEYXRhYmFzZSIKICAgICAgICAgICAgc2VydmljZUJvb2sgLT4gc2VydmljZUV2ZW50c1B1Ymxpc2hlciAiSXQgcHVibGlzaGVzIGJvb2tzLXJlbGF0ZWQgZXZlbnRzIHRvIEV2ZW50cyBQdWJsaXNoZXIiCiAgICAgICAgfQoKICAgICAgICAgIyAjIERlcGxveW1lbnQgZm9yIERldiBFbnYKICAgICAgICBkZXBsb3ltZW50RW52aXJvbm1lbnQgIk1pY3Jvc2VydmljZXNEZXBsb3ltZW50IiB7CiAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJCT09LUyBTVE9SRSBTWVNURU0iICIiICJBV1MgRUtTIiB7ICAgICAgIAogICAgICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIkRvY2tlciBDb250YWluZXIgLSBXZWIgU2VydmVyIiAiIiAiRG9ja2VyIiB7CiAgICAgICAgICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIkFwYWNoZSBUb21jYXQiICIiICIiIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29udGFpbmVySW5zdGFuY2UgYWRtaW5XZWJBUEkKICAgICAgICAgICAgICAgICAgICAgICAgY29udGFpbmVySW5zdGFuY2Ugc2VhcmNoV2ViQVBJCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIkRvY2tlciBDb250YWluZXIgLSBEYXRhYmFzZSBTZXJ2ZXIiICIiICJEb2NrZXIiIHsKICAgICAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiRGF0YWJhc2UgU2VydmVyIiAiIiAiUG9zdGdyZSBTUUwiIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29udGFpbmVySW5zdGFuY2UgcG9zdGdyZVNRTERhdGFiYXNlCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1Db250ZXh0IGJvb2tTdG9yZVN5c3RlbSAiTGV2ZWwxIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgYm9va1N0b3JlU3lzdGVtICJDb250YWluZXIiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIGNvbXBvbmVudCBhZG1pbldlYkFQSSAiU2VydmljZUJvb2siIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIGRlcGxveW1lbnQgYm9va1N0b3JlU3lzdGVtICJNaWNyb3NlcnZpY2VzRGVwbG95bWVudCIgIkFXUy1ERVYiICJNaWNyb3NlcnZpY2VzIERlcGxveW1lbnQiIHsKICAgICAgICAgICAgaW5jbHVkZSAqICAgICAgICAgICAKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCgogICAgICAgIHN0eWxlcyB7ICAgICAKICAgICAgICAgICAgZWxlbWVudCAiRXh0ZXJuYWwgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICByZWxhdGlvbnNoaXAgIlJlbGF0aW9uc2hpcCIgewogICAgICAgICAgICAgICAgZGFzaGVkIGZhbHNlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVsYXRpb25zaGlwICJIdHRwcyBSZXF1ZXN0IiB7CiAgICAgICAgICAgICAgICBkYXNoZWQgdHJ1ZQogICAgICAgICAgICAgICAgY29sb3IgZ3JlZW4KICAgICAgICAgICAgfQogICAgICAgICAgICByZWxhdGlvbnNoaXAgIkh0dHAgUmVxdWVzdCIgewogICAgICAgICAgICAgICAgZGFzaGVkIHRydWUKICAgICAgICAgICAgICAgIGNvbG9yIGJsdWUKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJEYXRhYmFzZSIgewogICAgICAgICAgICAgICAgc2hhcGUgQ3lsaW5kZXIKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgdGhlbWUgZGVmYXVsdAogICAgfQp9Cg=="
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgIyBBY3RvcgogICAgICAgIHB1YmxpY1VzZXIgPSBwZXJzb24gIlB1YmxpYyBVc2VyIiAiIiAiVXNlciIgewogICAgICAgICAgICB0YWdzICJNaWNyb3NvZnQgQXp1cmUgLSBVc2VycyIKICAgICAgICB9CiAgICAgICAgYXV0aG9yaXplZFVzZXIgPSBwZXJzb24gIkF1dGhvcml6ZWQgVXNlciIgIiIgIlVzZXIiIHsKICAgICAgICAgICAgdGFncyAiTWljcm9zb2Z0IEF6dXJlIC0gVXNlcnMiCiAgICAgICAgfQogICAgICAgIGRldmVsb3BlciA9IHBlcnNvbiAiRGV2ZWxvcGVyIiAiIiAiVXNlciIgewogICAgICAgICAgICB0YWdzICJNaWNyb3NvZnQgQXp1cmUgLSBVc2VycyIKICAgICAgICB9CgogICAgICAgIGF1dGhvcml6YXRpb25TeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiQXV0aG9yaXphdGlvbiBTeXN0ZW0iICJGb3IgYXV0aG9yaXphdGlvbiBwdXJwb3NlcyIgIkV4dGVybmFsIFN5c3RlbSIgewogICAgICAgICAgICB0YWdzICJNaWNyb3NvZnQgQXp1cmUgLSBFeHRlcm5hbCBJZGVudGl0aWVzIgogICAgICAgIH0KICAgICAgICBwdWJsaXNoZXJTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiUHVibGlzaGVyIFN5c3RlbSIgIkdpdmluZyBkZXRhaWxzIGFib3V0IGJvb2tzIHB1Ymxpc2hlZCBieSB0aGVtIiAiRXh0ZXJuYWwgU3lzdGVtIiB7CiAgICAgICAgICAgIHRhZ3MgIk1pY3Jvc29mdCBBenVyZSAtIEV4dGVybmFsIElkZW50aXRpZXMiCiAgICAgICAgfQoKICAgICAgICBhcHBsaWNhdGlvbiA9IGdyb3VwICJBcHBsaWNhdGlvbiIgewogICAgICAgICAgICAjIEJvb2sgU3Ryb3JlIFN5c3RlbQogICAgICAgICAgICAgICAgYm9va1N0b3JlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIkJvb2sgU3Ryb3JlIFN5c3RlbSIgIiIgIkFwcCIgeyAgCiAgICAgICAgICAgICAgICB0YWdzICJNaWNyb3NvZnQgQXp1cmUgLSBFbnRlcnByaXNlIEFwcGxpY2F0aW9ucyIgICAgICAgCiAgICAgICAgICAgICAgICBib29rc3RvcmUgPSBncm91cCAiQXBwbGljYXRpb24iIHsKICAgICAgICAgICAgICAgICAgICBzZWFyY2hXZWJBUEkgPSBjb250YWluZXIgIlNlYXJjaCBXZWIgQVBJIiAiRGV2ZWxvcGVkIHdpdGggR28iICIiICJBcGkiIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGFncyAiTWljcm9zb2Z0IEF6dXJlIC0gQVBJIE1hbmFnZW1lbnQgU2VydmljZXMiCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGFkbWluV2ViQVBJID0gY29udGFpbmVyICJBZG1pbiBXZWIgQVBJIiAiRGV2ZWxvcGVkIHdpdGggR28iICIiICJBcGkiIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGFncyAiTWljcm9zb2Z0IEF6dXJlIC0gQVBJIE1hbmFnZW1lbnQgU2VydmljZXMiCiAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VCb29rID0gY29tcG9uZW50ICJbc2VydmljZS5Cb29va10iICIiICIiICJzZXJ2aWNlIgogICAgICAgICAgICAgICAgICAgICAgICBzZXJ2aWNlQXV0aG9yaXplciA9IGNvbXBvbmVudCAiW3NlcnZpY2UuQXV0aG9yaXplcl0iICIiICIiICJzZXJ2aWNlIgogICAgICAgICAgICAgICAgICAgICAgICBzZXJ2aWNlRXZlbnRzUHVibGlzaGVyID0gY29tcG9uZW50ICJbc2VydmljZS5FdmVudHNQdWJsaXNoZXJdIiAiSXQgcHVibGlzaGVzIGJvb2tzLXJlbGF0ZWQgZXZlbnRzIHRvIEV2ZW50cyBQdWJsaXNoZXIiICIiICJzZXJ2aWNlIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBwdWJsaWNXZWJBUEkgPSBjb250YWluZXIgIlB1YmxpYyBXZWIgQVBJIiAiIiAiIiAiQXBpIiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRhZ3MgIk1pY3Jvc29mdCBBenVyZSAtIEFQSSBNYW5hZ2VtZW50IFNlcnZpY2VzIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBlbGFzdGljU2VhcmNoRXZlbnRzQ29uc3VtZXIgPSBjb250YWluZXIgIkVsYXN0aWNTZWFyY2ggRXZlbnRzIENvbnN1bWVyIiAiRGV2ZWxvcGVkIHdpdGggR28iICIiICJBcGkiIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGFncyAiTWljcm9zb2Z0IEF6dXJlIC0gT24gUHJlbWlzZXMgRGF0YSBHYXRld2F5cyIKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgc2VhcmNoRGF0YWJhc2UgPSBjb250YWluZXIgIkVsYXN0aWMiICJFbGFzdGljIFNlYXJjaCBEYXRhYmFzZSIgIiIgIkRhdGFiYXNlIiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRhZ3MgIk1pY3Jvc29mdCBBenVyZSAtIENvZ25pdGl2ZSBTZWFyY2giCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHBvc3RncmVTUUxEYXRhYmFzZSA9IGNvbnRhaW5lciAicG9zdGdyZVNRTCIgIlJlYWQvV3JpdGUgUmVsYXRpb25hbCBEYXRhYmFzZSBTdG9yZXMgYm9va3MgZGV0YWlsIiAiIiAiRGF0YWJhc2UiIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGFncyAiTWljcm9zb2Z0IEF6dXJlIC0gQXp1cmUgRGF0YWJhc2UgUG9zdGdyZVNRTCBTZXJ2ZXIiCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHJlYWRlckNhY2hlID0gY29udGFpbmVyICJSZWFkZXIgQ2FjaGU6IENhY2hlcyBib29rcyBkZXRhaWxzIiAiTWVtY2FjaGVkIiAiIiAiRGF0YWJhc2UiIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGFncyAiTWljcm9zb2Z0IEF6dXJlIC0gTWFuYWdlZCBEYXRhYmFzZSIKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcHVibGlzaGVyUmVjdXJyZW50VXBkYXRlID0gY29udGFpbmVyICJQdWJsaXNoZXIgUmVjdXJyZW50IFVwZGF0ZSIgIiIgIiIgIkFwaSIgewogICAgICAgICAgICAgICAgICAgICAgICB0YWdzICJNaWNyb3NvZnQgQXp1cmUgLSBBUEkgTWFuYWdlbWVudCBTZXJ2aWNlcyIKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgYm9va0thZmthU3lzdGVtID0gY29udGFpbmVyICJCb29rIEthZmthIFN5c3RlbSIgIkFwYWNoZSBLYWZrYSAzLjAiICJIYW5kbGVzIGJvb2stcmVsYXRlZCBkb21haW4gZXZlbnRzIiAiRXh0ZXJuYWwgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICAgICAgdGFncyAiTWljcm9zb2Z0IEF6dXJlIC0gRXh0ZXJuYWwgSWRlbnRpdGllcyIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgIyBSZWxhdGlvbnNoaXAKICAgICAgICAgICAgcHVibGljVXNlciAtPiBib29rU3RvcmVTeXN0ZW0gIlB1YmxpYyBVc2VyIgogICAgICAgICAgICBib29rU3RvcmVTeXN0ZW0gLT4gYXV0aG9yaXphdGlvblN5c3RlbSAgIkV4dGVybmFsIEF1dGhvcml6YXRpb24gU3lzdGVtIGZvciBhdXRob3JpemF0aW9uIHB1cnBvc2VzIgogICAgICAgIAogICAgICAgICAgICAjIExldmVsIDIKICAgICAgICAgICAgc2VhcmNoV2ViQVBJIC0+IHNlYXJjaERhdGFiYXNlICJVc2UgRWxhc3RpY1NlYXJjaCBhcyB0aGUgU2VhcmNoIERhdGFiYXNlIGZvciBzZWFyY2hpbmcgcmVhZC1vbmx5IHJlY29yZHMiIHsKICAgICAgICAgICAgICAgIHRhZ3MgIkh0dHBzIFJlcXVlc3QiCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGFkbWluV2ViQVBJIC0+IHBvc3RncmVTUUxEYXRhYmFzZSAiUmVhZCBkYXRhIGZyb20gYW5kIHdyaXRlIGRhdGEgdG8gUmVhZC9Xcml0ZSBSZWxhdGlvbmFsIERhdGFiYXNlIgogICAgICAgICAgICBhZG1pbldlYkFQSSAtPiBib29rS2Fma2FTeXN0ZW0gIlB1Ymxpc2hlcyBFdmVudHMgdG8gZXh0ZXJuYWwgQm9va3MgS2Fma2EgY29udGFpbmVyIgogICAgICAgICAgICBhZG1pbldlYkFQSSAtPiBwdWJsaXNoZXJSZWN1cnJlbnRVcGRhdGUgIkl0IHVzZXMgdGhlIEFkbWluIFdlYiBBUEkgZm9yIHVwZGF0aW5nIHRoYXQgZGF0YSIKICAgICAgICAgICAgYWRtaW5XZWJBUEkgLT4gYXV0aG9yaXphdGlvblN5c3RlbSAiQXV0aG9yaXplZCBieSBleHRlcm5hbCBBdXRob3JpemF0aW9uIFN5c3RlbS4iCgogICAgICAgICAgICBwdWJsaWNXZWJBUEkgLT4gcG9zdGdyZVNRTERhdGFiYXNlICJJdCByZWFkcyBkYXRhIGZyb20gUmVhZC9Xcml0ZSBSZWxhdGlvbmFsIERhdGFiYXNlIgogICAgICAgICAgICBwdWJsaWNXZWJBUEkgLT4gcmVhZGVyQ2FjaGUgIkl0IHJlYWRzL3dyaXRlIGRhdGEgdG8gUmVhZGVyIENhY2hlIGRhdGFiYXNlIgoKICAgICAgICAgICAgcHVibGljVXNlciAtPiBwdWJsaWNXZWJBUEkgIkFsbG93cyBQdWJsaWMgdXNlcnMgZ2V0dGluZyBib29rcyBkZXRhaWwiCgogICAgICAgICAgICBhdXRob3JpemVkVXNlciAtPiBzZWFyY2hXZWJBUEkgIkFsbG93cyBvbmx5IGF1dGhvcml6ZWQgdXNlcnMgc2VhcmNoaW5nIGJvb2tzIHJlY29yZHMgdmlhIEhUVFBzIGhhbmRsZXJzIiB7CiAgICAgICAgICAgICAgICB0YWdzICJIdHRwcyBSZXF1ZXN0IgogICAgICAgICAgICB9CiAgICAgICAgICAgIGF1dGhvcml6ZWRVc2VyIC0+IGFkbWluV2ViQVBJICJBbGxvd3Mgb25seSBhdXRob3JpemVkIHVzZXJzIGFkbWluaXN0ZXJpbmcgYm9va3MgZGV0YWlscyB2aWEgSFRUUCBoYW5kbGVycyIgewogICAgICAgICAgICAgICAgdGFncyAiSHR0cCBSZXF1ZXN0IgogICAgICAgICAgICB9CgogICAgICAgICAgICAjIGF1dGhvcml6ZWRVc2VyIC0+IGF1dGhvcml6YXRpb25TeXN0ZW0gIkF1dGhvcml6ZWQgdXNlciIKCiAgICAgICAgICAgIGJvb2tLYWZrYVN5c3RlbSAtPiBlbGFzdGljU2VhcmNoRXZlbnRzQ29uc3VtZXIgIkxpc3RlbmluZyB0byBLYWZrYSBkb21haW4gZXZlbnRzIGFuZCB3cml0ZSBwdWJsaXNoZXIgdG8gU2VhcmNoIERhdGFiYXNlIGZvciB1cGRhdGluZyIKICAgICAgICAgICAgZWxhc3RpY1NlYXJjaEV2ZW50c0NvbnN1bWVyIC0+IHNlYXJjaERhdGFiYXNlICJXcml0ZSBwdWJsaXNoZXIgdG8gU2VhcmNoIERhdGFiYXNlIGZvciB1cGRhdGluZyIKCiAgICAgICAgICAgIHB1Ymxpc2hlclJlY3VycmVudFVwZGF0ZSAtPiBwdWJsaXNoZXJTeXN0ZW0gIkxpc3RlbmluZyB0byBleHRlcm5hbCBldmVudHMgY29taW5nIGZyb20gUHVibGlzaGVyIFN5c3RlbSIKICAgICAgICAgICAgcHVibGlzaGVyUmVjdXJyZW50VXBkYXRlIC0+IHBvc3RncmVTUUxEYXRhYmFzZSAiVXBkYXRlcyB0aGUgUmVhZC9Xcml0ZSBSZWxhdGlvbmFsIERhdGFiYXNlIHdpdGggZGV0YWlsIGZyb20gUHVibGlzaGVyIHN5c3RlbSIKICAgICAgICAgICAgcHVibGlzaGVyUmVjdXJyZW50VXBkYXRlIC0+IGJvb2tLYWZrYVN5c3RlbSAiS2Fma2EiCgogICAgICAgICAgICAjIExldmVsIDMKICAgICAgICAgICAgYXV0aG9yaXplZFVzZXIgLT4gc2VydmljZUJvb2sgIkFsbG93IGFkbWluaXN0ZXJpbmcgYm9va3MgZGV0YWlscyIKICAgICAgICAgICAgc2VydmljZUJvb2sgLT4gc2VydmljZUF1dGhvcml6ZXIgIkF1dGhvcml6ZXMgYm9va3MgZGV0YWlsIGJ5IEF1dGhvcml6YXRpb24gU2VydmljIgogICAgICAgICAgICBzZXJ2aWNlQXV0aG9yaXplciAtPiBhdXRob3JpemF0aW9uU3lzdGVtICJBdXRob3JpemF0aW9uIFNlcnZpY2UgYWxsb3dzIGF1dGhvcml6aW5nIHVzZXJzIGJ5IHVzaW5nIGV4dGVybmFsIEF1dGhvcml6YXRpb24gU3lzdGVtIgogICAgICAgICAgICBzZXJ2aWNlRXZlbnRzUHVibGlzaGVyIC0+IGJvb2tLYWZrYVN5c3RlbSAiRXZlbnRzIFB1Ymxpc2hlciBwdWJsaXNoZXMgYm9va3MtcmVsYXRlZCBkb21haW4gZXZlbnRzIHRvIGV4dGVybmEgQm9va3MgS2Fma2EgY29udGFpbmVyIgogICAgICAgICAgICBzZXJ2aWNlQm9vayAtPiBwb3N0Z3JlU1FMRGF0YWJhc2UgIlJlYWQgZm9ybSBhbmQgd3JpdGUgZGF0YSB0byBSZWFkL1dyaXRlIFJlbGF0aW9uYWwgRGF0YWJhc2UiCiAgICAgICAgICAgIHNlcnZpY2VCb29rIC0+IHNlcnZpY2VFdmVudHNQdWJsaXNoZXIgIkl0IHB1Ymxpc2hlcyBib29rcy1yZWxhdGVkIGV2ZW50cyB0byBFdmVudHMgUHVibGlzaGVyIgogICAgICAgIH0KCiAgICAgICAgZGVwbG95bWVudFN0ZXAgPSBzb2Z0d2FyZVN5c3RlbSAiZGVwbG95bWVudFN0ZXAiICJXb3JrZmxvdyBDSS9DRCBmb3IgZGVwbG95aW5nIiB7CiAgICAgICAgICAgIHJlcG9zaXRvcnkgPSBjb250YWluZXIgIlJlcG9zaXRvcnkiICIiICIiICJkZXBsb3ltZW50IiB7CiAgICAgICAgICAgICAgICB0YWdzICJNaWNyb3NvZnQgQXp1cmUgLSBDb2RlIgogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvZGVQaXBlbGluZSA9IGNvbnRhaW5lciAiQ29kZVBpcGVsaW5lIiAiIiAiIiAiZGVwbG95bWVudCIgewogICAgICAgICAgICAgICAgdGFncyAiTWljcm9zb2Z0IEF6dXJlIC0gQnVpbGRzIgogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvZGVCdWlsZCA9IGNvbnRhaW5lciAiQ29kZUJ1aWxkIiAiIiAiIiAiZGVwbG95bWVudCIgewogICAgICAgICAgICAgICAgdGFncyAiTWljcm9zb2Z0IEF6dXJlIC0gQnVpbGRzIgogICAgICAgICAgICB9CiAgICAgICAgICAgIGFtYXpvbkVDUiA9IGNvbnRhaW5lciAiQW1hem9uIEVDUiIgIiIgIiIgImRlcGxveW1lbnQiIHsgCiAgICAgICAgICAgICAgICB0YWdzICJNaWNyb3NvZnQgQXp1cmUgLSBDb21tdW5pdHkgSW1hZ2VzIgogICAgICAgICAgICB9CiAgICAgICAgICAgIGFtYXpvbkVLUyA9IGNvbnRhaW5lciAiQW1hem9uIEVLUyIgIiIgIiIgImRlcGxveW1lbnQiIHsKICAgICAgICAgICAgICAgIHRhZ3MgIk1pY3Jvc29mdCBBenVyZSAtIEF6dXJlIERlcGxveW1lbnQgRW52aXJvbm1lbnRzIgogICAgICAgICAgICB9CgogICAgICAgICAgICBkZXZlbG9wZXIgLT4gcmVwb3NpdG9yeSAiRGV2ZWxvcGVyIGNvbW1pdCBhbmQgcHVzaCBjaGFuZ2VzIHRvIGEgc291cmNlIGNvZGUgcmVwb3NpdG9yeS4iCiAgICAgICAgICAgIGNvZGVQaXBlbGluZSAtPiByZXBvc2l0b3J5ICJEb3dubG9hZHMgdGhlIHNvdXJjZSBjb2RlIGFuZCBzdGFydHMgdGhlIGJ1aWxkIHByb2Nlc3MiCiAgICAgICAgICAgIGNvZGVQaXBlbGluZSAtPiBjb2RlQnVpbGQgImRvd25sb2FkcyB0aGUgbmVjZXNzYXJ5IHNvdXJjZSBmaWxlcyBhbmQgc3RhcnRzIHJ1bm5pbmcgY29tbWFuZHMgdG8gYnVpbGQgYW5kIHRhZyBhIGxvY2FsIERvY2tlciBjb250YWluZXIgaW1hZ2UiCiAgICAgICAgICAgIGNvZGVCdWlsZCAtPiBhbWF6b25FQ1IgIlB1c2hlcyB0aGUgY29udGFpbmVyIGltYWdlIHRvIEFtYXpvbiBFQ1IiCiAgICAgICAgICAgIGNvZGVCdWlsZCAtPiBhbWF6b25FS1MgIkNvZGVCdWlsZCBkZXBsb3lzIGltYWdlIG9uIEFtYXpvbiBFS1MiCiAgICAgICAgfQoKICAgICAgICAjIyBEZXBsb3ltZW50IGZvciBEZXYgRW52CiAgICAgICAgZGVwbG95bWVudEVudmlyb25tZW50ICJNaWNyb3NlcnZpY2VzRGVwbG95bWVudCIgewogICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiQk9PS1MgU1RPUkUgU1lTVEVNIiAiIiAiQVdTIEVLUyIgeyAgICAgICAKICAgICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJEb2NrZXIgQ29udGFpbmVyIC0gV2ViIFNlcnZlciIgIiIgIkRvY2tlciIgewogICAgICAgICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJBV1MgRUtTIiAiIiAiIiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRhaW5lckluc3RhbmNlIGFkbWluV2ViQVBJCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRhaW5lckluc3RhbmNlIHNlYXJjaFdlYkFQSQogICAgICAgICAgICAgICAgICAgICAgICBjb250YWluZXJJbnN0YW5jZSBwdWJsaWNXZWJBUEkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiUG9zdGdyZVNRTCBSZWFkL1dyaXRlIFJlbGF0aW9uYWwgRGF0YWJhc2UiICIiICIiIHsKICAgICAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiQVdTIFJEUyIgIiIgIiIgewogICAgICAgICAgICAgICAgICAgICAgICBjb250YWluZXJJbnN0YW5jZSBwb3N0Z3JlU1FMRGF0YWJhc2UKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiRWxhc3RpYyBTZWFyY2ggRGF0YWJhc2UgLSBEYXRhYmFzZSBTZXJ2ZXIiICIiICJFbGFzdGljIFNlYXJjaCBEYXRhYmFzZSIgewogICAgICAgICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJBV1MgT3BlblNlYXJjaCIgIiIgewogICAgICAgICAgICAgICAgICAgICAgICBjb250YWluZXJJbnN0YW5jZSBzZWFyY2hEYXRhYmFzZQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiRWxhc3RpY1NlYXJjaCBFdmVudHMgQ29uc3VtZXIiICIiICIiIHsKICAgICAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiRUMyLWIgYXMgYSBtaWNyby1zZXJ2aWNlIiAiIiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRhaW5lckluc3RhbmNlIGVsYXN0aWNTZWFyY2hFdmVudHNDb25zdW1lcgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiUmVhZGVyIENhY2hlIiAiIiAiIiB7CiAgICAgICAgICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIkFXUyBFbGFzdGlDYWNoZSIgIiIgewogICAgICAgICAgICAgICAgICAgICAgICBjb250YWluZXJJbnN0YW5jZSBlbGFzdGljU2VhcmNoRXZlbnRzQ29uc3VtZXIKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgdmlld3MgewogICAgICAgIHN5c3RlbUNvbnRleHQgYm9va1N0b3JlU3lzdGVtICJMZXZlbDEiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIGNvbnRhaW5lciBib29rU3RvcmVTeXN0ZW0gIkNvbnRhaW5lciIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCiAgICAgICAgY29tcG9uZW50IGFkbWluV2ViQVBJICJTZXJ2aWNlQm9vayIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCiAgICAgICAgIyBjb21wb25lbnQgZGVwbG95bWVudFN0ZXAgImRlcGxveW1lbnRTdGVwIiB7CiAgICAgICAgIyAgICAgaW5jbHVkZSAqCiAgICAgICAgIyAgICAgYXV0b0xheW91dAogICAgICAgICMgfQoKICAgICAgICBkZXBsb3ltZW50IGJvb2tTdG9yZVN5c3RlbSAiTWljcm9zZXJ2aWNlc0RlcGxveW1lbnQiICJBV1MtREVWIiAiTWljcm9zZXJ2aWNlcyBEZXBsb3ltZW50IiB7CiAgICAgICAgICAgIGluY2x1ZGUgKiAgICAgICAgICAgCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIGR5bmFtaWMgZGVwbG95bWVudFN0ZXAgIldvcmtmbG93IiB7CiAgICAgICAgICAgIHRpdGxlICJXb3JrZmxvdyBDSS9DRCBmb3IgZGVwbG95aW5nIgogICAgICAgICAgICBkZXZlbG9wZXIgLT4gcmVwb3NpdG9yeSAiRGV2ZWxvcGVyIGNvbW1pdCBhbmQgcHVzaCBjaGFuZ2VzIHRvIGEgc291cmNlIGNvZGUgcmVwb3NpdG9yeSIKICAgICAgICAgICAgcmVwb3NpdG9yeSAtPiBjb2RlUGlwZWxpbmUgIkEgd2ViaG9vayBvbiB0aGUgY29kZSByZXBvc2l0b3J5IHRyaWdnZXJzIGEgQ29kZVBpcGVsaW5lIGJ1aWxkIGluIHRoZSBBV1MgQ2xvdWQiCiAgICAgICAgICAgIGNvZGVQaXBlbGluZSAtPiByZXBvc2l0b3J5ICJEb3dubG9hZHMgdGhlIHNvdXJjZSBjb2RlIGFuZCBzdGFydHMgdGhlIGJ1aWxkIHByb2Nlc3MiCiAgICAgICAgICAgIGNvZGVQaXBlbGluZSAtPiBjb2RlQnVpbGQgIkRvd25sb2FkcyB0aGUgbmVjZXNzYXJ5IHNvdXJjZSBmaWxlcyBhbmQgc3RhcnRzIHJ1bm5pbmcgY29tbWFuZHMgdG8gYnVpbGQgYW5kIHRhZyBhIGxvY2FsIERvY2tlciBjb250YWluZXIgaW1hZ2UiCiAgICAgICAgICAgIGNvZGVCdWlsZCAtPiBhbWF6b25FQ1IgInB1c2hlcyB0aGUgY29udGFpbmVyIGltYWdlIHRvIEFtYXpvbiBFQ1IuIiAKICAgICAgICAgICAgY29kZUJ1aWxkIC0+IGFtYXpvbkVLUyAiQ29kZUJ1aWxkIGRlcGxveXMgaW1hZ2Ugb24gQW1hem9uIEVLUyIKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCgogICAgICAgIHN0eWxlcyB7IAogICAgICAgICAgICBlbGVtZW50ICJVc2VyIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kIHdoaXRlCiAgICAgICAgICAgICAgICBib3JkZXIgZGFzaGVkCiAgICAgICAgICAgICAgICBzdHJva2UgIzFhODNkYwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgcGVyc29uIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgd2hpdGUKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJFeHRlcm5hbCBTeXN0ZW0iIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgd2hpdGUKICAgICAgICAgICAgICAgIGJvcmRlciBkYXNoZWQKICAgICAgICAgICAgfQogICAgICAgICAgICByZWxhdGlvbnNoaXAgIlJlbGF0aW9uc2hpcCIgewogICAgICAgICAgICAgICAgZGFzaGVkIGZhbHNlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVsYXRpb25zaGlwICJIdHRwcyBSZXF1ZXN0IiB7CiAgICAgICAgICAgICAgICBkYXNoZWQgdHJ1ZQogICAgICAgICAgICAgICAgY29sb3IgZ3JlZW4KICAgICAgICAgICAgfQogICAgICAgICAgICByZWxhdGlvbnNoaXAgIkh0dHAgUmVxdWVzdCIgewogICAgICAgICAgICAgICAgZGFzaGVkIHRydWUKICAgICAgICAgICAgICAgIGNvbG9yIGJsdWUKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJEYXRhYmFzZSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCB3aGl0ZQogICAgICAgICAgICAgICAgY29sb3IgIzUwZTZmZgogICAgICAgICAgICAgICAgc3Ryb2tlICMwMDc4ZDQKICAgICAgICAgICAgICAgIHNoYXBlIEN5bGluZGVyCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiQXBwInsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgd2hpdGUKICAgICAgICAgICAgICAgIHN0cm9rZSAjMDA3OGQ0CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiQXBpIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kIHdoaXRlCiAgICAgICAgICAgICAgICBib3JkZXIgc29saWQKICAgICAgICAgICAgICAgIHN0cm9rZSAjMDA3OGQ0CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiZGVwbG95bWVudCIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCB3aGl0ZQogICAgICAgICAgICAgICAgYm9yZGVyIGRhc2hlZAogICAgICAgICAgICAgICAgY29sb3IgIzUwZTZmZgogICAgICAgICAgICAgICAgc3Ryb2tlICMxYTgzZGMKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJzZXJ2aWNlIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kIHdoaXRlCiAgICAgICAgICAgICAgICBib3JkZXIgZGFzaGVkCiAgICAgICAgICAgICAgICBzdHJva2UgIzFhODNkYwogICAgICAgICAgICAgICAgY29sb3IgIzFhODNkYwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICB0aGVtZXMgaHR0cHM6Ly9zdGF0aWMuc3RydWN0dXJpenIuY29tL3RoZW1lcy9taWNyb3NvZnQtYXp1cmUtMjAyMy4wMS4yNC90aGVtZS5qc29uCiAgICB9Cn0K"
   },
   "configuration" : { },
   "model" : {
     "people" : [ {
-      "id" : "2",
-      "tags" : "Element,Person",
+      "id" : "3",
+      "tags" : "Element,Person,User,Microsoft Azure - Users",
       "properties" : {
-        "structurizr.dsl.identifier" : "authorizeduser"
+        "structurizr.dsl.identifier" : "developer"
       },
-      "name" : "Authorized User",
+      "name" : "Developer",
       "relationships" : [ {
-        "id" : "30",
-        "tags" : "Relationship,Http Request",
-        "sourceId" : "2",
-        "destinationId" : "7",
-        "description" : "Allows only authorized users administering books details via HTTP handlers"
-      }, {
-        "id" : "29",
-        "sourceId" : "2",
-        "destinationId" : "5",
-        "description" : "Allows only authorized users searching books records via HTTPs handlers",
-        "linkedRelationshipId" : "28"
-      }, {
-        "id" : "36",
+        "id" : "50",
         "tags" : "Relationship",
-        "sourceId" : "2",
-        "destinationId" : "8",
-        "description" : "Allow administering books details"
+        "sourceId" : "3",
+        "destinationId" : "45",
+        "description" : "Developer commit and push changes to a source code repository."
       }, {
-        "id" : "28",
-        "tags" : "Relationship,Https Request",
-        "sourceId" : "2",
-        "destinationId" : "6",
-        "description" : "Allows only authorized users searching books records via HTTPs handlers"
+        "id" : "51",
+        "sourceId" : "3",
+        "destinationId" : "44",
+        "description" : "Developer commit and push changes to a source code repository.",
+        "linkedRelationshipId" : "50"
       } ],
       "location" : "Unspecified"
     }, {
       "id" : "1",
-      "tags" : "Element,Person",
+      "tags" : "Element,Person,User,Microsoft Azure - Users",
       "properties" : {
         "structurizr.dsl.identifier" : "publicuser"
       },
       "name" : "Public User",
       "relationships" : [ {
-        "id" : "18",
+        "id" : "28",
         "tags" : "Relationship",
         "sourceId" : "1",
-        "destinationId" : "5",
-        "description" : "Public User"
-      }, {
-        "id" : "27",
-        "tags" : "Relationship",
-        "sourceId" : "1",
-        "destinationId" : "11",
+        "destinationId" : "12",
         "description" : "Allows Public users getting books detail"
+      }, {
+        "id" : "19",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "6",
+        "description" : "Public User"
+      } ],
+      "location" : "Unspecified"
+    }, {
+      "id" : "2",
+      "tags" : "Element,Person,User,Microsoft Azure - Users",
+      "properties" : {
+        "structurizr.dsl.identifier" : "authorizeduser"
+      },
+      "name" : "Authorized User",
+      "relationships" : [ {
+        "id" : "38",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "9",
+        "description" : "Allow administering books details"
+      }, {
+        "id" : "29",
+        "tags" : "Relationship,Https Request",
+        "sourceId" : "2",
+        "destinationId" : "7",
+        "description" : "Allows only authorized users searching books records via HTTPs handlers"
+      }, {
+        "id" : "30",
+        "sourceId" : "2",
+        "destinationId" : "6",
+        "description" : "Allows only authorized users searching books records via HTTPs handlers",
+        "linkedRelationshipId" : "29"
+      }, {
+        "id" : "31",
+        "tags" : "Relationship,Http Request",
+        "sourceId" : "2",
+        "destinationId" : "8",
+        "description" : "Allows only authorized users administering books details via HTTP handlers"
       } ],
       "location" : "Unspecified"
     } ],
     "softwareSystems" : [ {
+      "id" : "44",
+      "tags" : "Element,Software System",
+      "properties" : {
+        "structurizr.dsl.identifier" : "deploymentstep"
+      },
+      "name" : "deploymentStep",
+      "description" : "Workflow CI/CD for deploying",
+      "location" : "Unspecified",
+      "containers" : [ {
+        "id" : "46",
+        "tags" : "Element,Container,deployment,Microsoft Azure - Builds",
+        "properties" : {
+          "structurizr.dsl.identifier" : "codepipeline"
+        },
+        "name" : "CodePipeline",
+        "relationships" : [ {
+          "id" : "52",
+          "tags" : "Relationship",
+          "sourceId" : "46",
+          "destinationId" : "45",
+          "description" : "Downloads the source code and starts the build process"
+        }, {
+          "id" : "53",
+          "tags" : "Relationship",
+          "sourceId" : "46",
+          "destinationId" : "47",
+          "description" : "downloads the necessary source files and starts running commands to build and tag a local Docker container image"
+        } ],
+        "documentation" : { }
+      }, {
+        "id" : "49",
+        "tags" : "Element,Container,deployment,Microsoft Azure - Azure Deployment Environments",
+        "properties" : {
+          "structurizr.dsl.identifier" : "amazoneks"
+        },
+        "name" : "Amazon EKS",
+        "documentation" : { }
+      }, {
+        "id" : "45",
+        "tags" : "Element,Container,deployment,Microsoft Azure - Code",
+        "properties" : {
+          "structurizr.dsl.identifier" : "repository"
+        },
+        "name" : "Repository",
+        "documentation" : { }
+      }, {
+        "id" : "48",
+        "tags" : "Element,Container,deployment,Microsoft Azure - Community Images",
+        "properties" : {
+          "structurizr.dsl.identifier" : "amazonecr"
+        },
+        "name" : "Amazon ECR",
+        "documentation" : { }
+      }, {
+        "id" : "47",
+        "tags" : "Element,Container,deployment,Microsoft Azure - Builds",
+        "properties" : {
+          "structurizr.dsl.identifier" : "codebuild"
+        },
+        "name" : "CodeBuild",
+        "relationships" : [ {
+          "id" : "55",
+          "tags" : "Relationship",
+          "sourceId" : "47",
+          "destinationId" : "49",
+          "description" : "CodeBuild deploys image on Amazon EKS"
+        }, {
+          "id" : "54",
+          "tags" : "Relationship",
+          "sourceId" : "47",
+          "destinationId" : "48",
+          "description" : "Pushes the container image to Amazon ECR"
+        } ],
+        "documentation" : { }
+      } ],
+      "documentation" : { }
+    }, {
       "id" : "4",
-      "tags" : "Element,Software System,External System",
+      "tags" : "Element,Software System,External System,Microsoft Azure - External Identities",
+      "properties" : {
+        "structurizr.dsl.identifier" : "authorizationsystem"
+      },
+      "name" : "Authorization System",
+      "description" : "For authorization purposes",
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "5",
+      "tags" : "Element,Software System,External System,Microsoft Azure - External Identities",
       "properties" : {
         "structurizr.dsl.identifier" : "publishersystem"
       },
@@ -75,284 +183,354 @@
       "location" : "Unspecified",
       "documentation" : { }
     }, {
-      "id" : "5",
-      "tags" : "Element,Software System",
+      "id" : "6",
+      "tags" : "Element,Software System,App,Microsoft Azure - Enterprise Applications",
       "properties" : {
         "structurizr.dsl.identifier" : "bookstoresystem"
       },
       "name" : "Book Strore System",
       "relationships" : [ {
-        "id" : "19",
+        "id" : "20",
         "tags" : "Relationship",
-        "sourceId" : "5",
-        "destinationId" : "3",
+        "sourceId" : "6",
+        "destinationId" : "4",
         "description" : "External Authorization System for authorization purposes"
       }, {
-        "id" : "33",
-        "sourceId" : "5",
-        "destinationId" : "4",
+        "id" : "35",
+        "sourceId" : "6",
+        "destinationId" : "5",
         "description" : "Listening to external events coming from Publisher System",
-        "linkedRelationshipId" : "32"
+        "linkedRelationshipId" : "34"
       } ],
       "group" : "Application",
       "location" : "Unspecified",
       "containers" : [ {
-        "id" : "17",
-        "tags" : "Element,Container,External System",
+        "id" : "18",
+        "tags" : "Element,Container,External System,Microsoft Azure - External Identities",
         "properties" : {
           "structurizr.dsl.identifier" : "bookkafkasystem"
         },
         "name" : "Book Kafka System",
         "description" : "Apache Kafka 3.0",
+        "relationships" : [ {
+          "id" : "32",
+          "tags" : "Relationship",
+          "sourceId" : "18",
+          "destinationId" : "13",
+          "description" : "Listening to Kafka domain events and write publisher to Search Database for updating"
+        } ],
         "technology" : "Handles book-related domain events",
         "documentation" : { }
       }, {
-        "id" : "11",
-        "tags" : "Element,Container",
-        "properties" : {
-          "structurizr.dsl.identifier" : "publicwebapi"
-        },
-        "name" : "Public Web API",
-        "relationships" : [ {
-          "id" : "25",
-          "tags" : "Relationship",
-          "sourceId" : "11",
-          "destinationId" : "14",
-          "description" : "It reads data from Read/Write Relational Database"
-        }, {
-          "id" : "26",
-          "tags" : "Relationship",
-          "sourceId" : "11",
-          "destinationId" : "15",
-          "description" : "It reads/write data to Reader Cache database"
-        } ],
-        "group" : "Application",
-        "documentation" : { }
-      }, {
-        "id" : "16",
-        "tags" : "Element,Container",
-        "properties" : {
-          "structurizr.dsl.identifier" : "publisherrecurrentupdate"
-        },
-        "name" : "Publisher Recurrent Update",
-        "relationships" : [ {
-          "id" : "35",
-          "tags" : "Relationship",
-          "sourceId" : "16",
-          "destinationId" : "17",
-          "description" : "Kafka"
-        }, {
-          "id" : "32",
-          "tags" : "Relationship",
-          "sourceId" : "16",
-          "destinationId" : "4",
-          "description" : "Listening to external events coming from Publisher System"
-        }, {
-          "id" : "34",
-          "tags" : "Relationship",
-          "sourceId" : "16",
-          "destinationId" : "14",
-          "description" : "Updates the Read/Write Relational Database with detail from Publisher system"
-        } ],
-        "group" : "Application",
-        "documentation" : { }
-      }, {
-        "id" : "6",
-        "tags" : "Element,Container",
-        "properties" : {
-          "structurizr.dsl.identifier" : "searchwebapi"
-        },
-        "name" : "Search Web API",
-        "description" : "Developed with Go",
-        "relationships" : [ {
-          "id" : "20",
-          "tags" : "Relationship,Https Request",
-          "sourceId" : "6",
-          "destinationId" : "13",
-          "description" : "Use ElasticSearch as the Search Database for searching read-only records"
-        } ],
-        "group" : "Application",
-        "documentation" : { }
-      }, {
-        "id" : "13",
-        "tags" : "Element,Container",
+        "id" : "14",
+        "tags" : "Element,Container,Database,Microsoft Azure - Cognitive Search",
         "properties" : {
           "structurizr.dsl.identifier" : "searchdatabase"
         },
         "name" : "Elastic",
         "description" : "Elastic Search Database",
         "group" : "Application",
-        "technology" : "Database",
+        "documentation" : { }
+      }, {
+        "id" : "12",
+        "tags" : "Element,Container,Api,Microsoft Azure - API Management Services",
+        "properties" : {
+          "structurizr.dsl.identifier" : "publicwebapi"
+        },
+        "name" : "Public Web API",
+        "relationships" : [ {
+          "id" : "26",
+          "tags" : "Relationship",
+          "sourceId" : "12",
+          "destinationId" : "15",
+          "description" : "It reads data from Read/Write Relational Database"
+        }, {
+          "id" : "27",
+          "tags" : "Relationship",
+          "sourceId" : "12",
+          "destinationId" : "16",
+          "description" : "It reads/write data to Reader Cache database"
+        } ],
+        "group" : "Application",
         "documentation" : { }
       }, {
         "id" : "7",
-        "tags" : "Element,Container",
+        "tags" : "Element,Container,Api,Microsoft Azure - API Management Services",
+        "properties" : {
+          "structurizr.dsl.identifier" : "searchwebapi"
+        },
+        "name" : "Search Web API",
+        "description" : "Developed with Go",
+        "relationships" : [ {
+          "id" : "21",
+          "tags" : "Relationship,Https Request",
+          "sourceId" : "7",
+          "destinationId" : "14",
+          "description" : "Use ElasticSearch as the Search Database for searching read-only records"
+        } ],
+        "group" : "Application",
+        "documentation" : { }
+      }, {
+        "id" : "17",
+        "tags" : "Element,Container,Api,Microsoft Azure - API Management Services",
+        "properties" : {
+          "structurizr.dsl.identifier" : "publisherrecurrentupdate"
+        },
+        "name" : "Publisher Recurrent Update",
+        "relationships" : [ {
+          "id" : "34",
+          "tags" : "Relationship",
+          "sourceId" : "17",
+          "destinationId" : "5",
+          "description" : "Listening to external events coming from Publisher System"
+        }, {
+          "id" : "36",
+          "tags" : "Relationship",
+          "sourceId" : "17",
+          "destinationId" : "15",
+          "description" : "Updates the Read/Write Relational Database with detail from Publisher system"
+        }, {
+          "id" : "37",
+          "tags" : "Relationship",
+          "sourceId" : "17",
+          "destinationId" : "18",
+          "description" : "Kafka"
+        } ],
+        "group" : "Application",
+        "documentation" : { }
+      }, {
+        "id" : "8",
+        "tags" : "Element,Container,Api,Microsoft Azure - API Management Services",
         "properties" : {
           "structurizr.dsl.identifier" : "adminwebapi"
         },
         "name" : "Admin Web API",
         "description" : "Developed with Go",
         "relationships" : [ {
-          "id" : "24",
+          "id" : "25",
           "tags" : "Relationship",
-          "sourceId" : "7",
-          "destinationId" : "3",
+          "sourceId" : "8",
+          "destinationId" : "4",
           "description" : "Authorized by external Authorization System."
         }, {
           "id" : "22",
           "tags" : "Relationship",
-          "sourceId" : "7",
-          "destinationId" : "17",
-          "description" : "Publishes Events to external Books Kafka container"
-        }, {
-          "id" : "21",
-          "tags" : "Relationship",
-          "sourceId" : "7",
-          "destinationId" : "14",
+          "sourceId" : "8",
+          "destinationId" : "15",
           "description" : "Read data from and write data to Read/Write Relational Database"
+        }, {
+          "id" : "24",
+          "tags" : "Relationship",
+          "sourceId" : "8",
+          "destinationId" : "17",
+          "description" : "It uses the Admin Web API for updating that data"
         }, {
           "id" : "23",
           "tags" : "Relationship",
-          "sourceId" : "7",
-          "destinationId" : "16",
-          "description" : "It uses the Admin Web API for updating that data"
+          "sourceId" : "8",
+          "destinationId" : "18",
+          "description" : "Publishes Events to external Books Kafka container"
         } ],
         "group" : "Application",
         "components" : [ {
-          "id" : "10",
-          "tags" : "Element,Component",
+          "id" : "11",
+          "tags" : "Element,Component,service",
           "properties" : {
             "structurizr.dsl.identifier" : "serviceeventspublisher"
           },
           "name" : "[service.EventsPublisher]",
           "description" : "It publishes books-related events to Events Publisher",
           "relationships" : [ {
-            "id" : "39",
+            "id" : "41",
             "tags" : "Relationship",
-            "sourceId" : "10",
-            "destinationId" : "17",
+            "sourceId" : "11",
+            "destinationId" : "18",
             "description" : "Events Publisher publishes books-related domain events to externa Books Kafka container"
           } ],
           "documentation" : { }
         }, {
-          "id" : "8",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "servicebook"
-          },
-          "name" : "[service.Boook]",
-          "relationships" : [ {
-            "id" : "41",
-            "tags" : "Relationship",
-            "sourceId" : "8",
-            "destinationId" : "10",
-            "description" : "It publishes books-related events to Events Publisher"
-          }, {
-            "id" : "37",
-            "tags" : "Relationship",
-            "sourceId" : "8",
-            "destinationId" : "9",
-            "description" : "Authorizes books detail by Authorization Servic"
-          }, {
-            "id" : "40",
-            "tags" : "Relationship",
-            "sourceId" : "8",
-            "destinationId" : "14",
-            "description" : "Read form and write data to Read/Write Relational Database"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "9",
-          "tags" : "Element,Component",
+          "id" : "10",
+          "tags" : "Element,Component,service",
           "properties" : {
             "structurizr.dsl.identifier" : "serviceauthorizer"
           },
           "name" : "[service.Authorizer]",
           "relationships" : [ {
-            "id" : "38",
+            "id" : "40",
+            "tags" : "Relationship",
+            "sourceId" : "10",
+            "destinationId" : "4",
+            "description" : "Authorization Service allows authorizing users by using external Authorization System"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "9",
+          "tags" : "Element,Component,service",
+          "properties" : {
+            "structurizr.dsl.identifier" : "servicebook"
+          },
+          "name" : "[service.Boook]",
+          "relationships" : [ {
+            "id" : "43",
             "tags" : "Relationship",
             "sourceId" : "9",
-            "destinationId" : "3",
-            "description" : "Authorization Service allows authorizing users by using external Authorization System"
+            "destinationId" : "11",
+            "description" : "It publishes books-related events to Events Publisher"
+          }, {
+            "id" : "39",
+            "tags" : "Relationship",
+            "sourceId" : "9",
+            "destinationId" : "10",
+            "description" : "Authorizes books detail by Authorization Servic"
+          }, {
+            "id" : "42",
+            "tags" : "Relationship",
+            "sourceId" : "9",
+            "destinationId" : "15",
+            "description" : "Read form and write data to Read/Write Relational Database"
           } ],
           "documentation" : { }
         } ],
         "documentation" : { }
       }, {
-        "id" : "14",
-        "tags" : "Element,Container",
+        "id" : "15",
+        "tags" : "Element,Container,Database,Microsoft Azure - Azure Database PostgreSQL Server",
         "properties" : {
           "structurizr.dsl.identifier" : "postgresqldatabase"
         },
         "name" : "postgreSQL",
         "description" : "Read/Write Relational Database Stores books detail",
         "group" : "Application",
-        "technology" : "Database",
         "documentation" : { }
       }, {
-        "id" : "12",
-        "tags" : "Element,Container",
+        "id" : "13",
+        "tags" : "Element,Container,Api,Microsoft Azure - On Premises Data Gateways",
         "properties" : {
           "structurizr.dsl.identifier" : "elasticsearcheventsconsumer"
         },
         "name" : "ElasticSearch Events Consumer",
         "description" : "Developed with Go",
         "relationships" : [ {
-          "id" : "31",
+          "id" : "33",
           "tags" : "Relationship",
-          "sourceId" : "12",
-          "destinationId" : "17",
-          "description" : "Listening to Kafka domain events and write publisher to Search Database for updating"
+          "sourceId" : "13",
+          "destinationId" : "14",
+          "description" : "Write publisher to Search Database for updating"
         } ],
         "group" : "Application",
         "documentation" : { }
       }, {
-        "id" : "15",
-        "tags" : "Element,Container",
+        "id" : "16",
+        "tags" : "Element,Container,Database,Microsoft Azure - Managed Database",
         "properties" : {
           "structurizr.dsl.identifier" : "readercache"
         },
         "name" : "Reader Cache: Caches books details",
         "description" : "Memcached",
         "group" : "Application",
-        "technology" : "Database",
         "documentation" : { }
       } ],
       "documentation" : { }
-    }, {
-      "id" : "3",
-      "tags" : "Element,Software System,External System",
-      "properties" : {
-        "structurizr.dsl.identifier" : "authorizationsystem"
-      },
-      "name" : "Authorization System",
-      "description" : "For authorization purposes",
-      "location" : "Unspecified",
-      "documentation" : { }
     } ],
     "deploymentNodes" : [ {
-      "id" : "42",
+      "id" : "56",
       "tags" : "Element,Deployment Node",
       "name" : "BOOKS STORE SYSTEM",
       "environment" : "MicroservicesDeployment",
       "technology" : "AWS EKS",
       "instances" : "1",
       "children" : [ {
-        "id" : "47",
+        "id" : "71",
         "tags" : "Element,Deployment Node",
-        "name" : "Docker Container - Database Server",
+        "name" : "ElasticSearch Events Consumer",
         "environment" : "MicroservicesDeployment",
-        "technology" : "Docker",
         "instances" : "1",
         "children" : [ {
-          "id" : "48",
+          "id" : "72",
           "tags" : "Element,Deployment Node",
-          "name" : "Database Server",
+          "name" : "EC2-b as a micro-service",
           "environment" : "MicroservicesDeployment",
-          "technology" : "Postgre SQL",
           "instances" : "1",
           "containerInstances" : [ {
-            "id" : "49",
+            "id" : "73",
+            "tags" : "Container Instance",
+            "relationships" : [ {
+              "id" : "74",
+              "sourceId" : "73",
+              "destinationId" : "69",
+              "description" : "Write publisher to Search Database for updating",
+              "linkedRelationshipId" : "33"
+            } ],
+            "environment" : "MicroservicesDeployment",
+            "deploymentGroups" : [ "Default" ],
+            "instanceId" : 1,
+            "containerId" : "13"
+          } ]
+        } ]
+      }, {
+        "id" : "62",
+        "tags" : "Element,Deployment Node",
+        "name" : "PostgreSQL Read/Write Relational Database",
+        "environment" : "MicroservicesDeployment",
+        "instances" : "1",
+        "children" : [ {
+          "id" : "63",
+          "tags" : "Element,Deployment Node",
+          "name" : "AWS RDS",
+          "environment" : "MicroservicesDeployment",
+          "instances" : "1",
+          "containerInstances" : [ {
+            "id" : "64",
+            "tags" : "Container Instance",
+            "environment" : "MicroservicesDeployment",
+            "deploymentGroups" : [ "Default" ],
+            "instanceId" : 1,
+            "containerId" : "15"
+          } ]
+        } ]
+      }, {
+        "id" : "75",
+        "tags" : "Element,Deployment Node",
+        "name" : "Reader Cache",
+        "environment" : "MicroservicesDeployment",
+        "instances" : "1",
+        "children" : [ {
+          "id" : "76",
+          "tags" : "Element,Deployment Node",
+          "name" : "AWS ElastiCache",
+          "environment" : "MicroservicesDeployment",
+          "instances" : "1",
+          "containerInstances" : [ {
+            "id" : "77",
+            "tags" : "Container Instance",
+            "relationships" : [ {
+              "id" : "78",
+              "sourceId" : "77",
+              "destinationId" : "69",
+              "description" : "Write publisher to Search Database for updating",
+              "linkedRelationshipId" : "33"
+            } ],
+            "environment" : "MicroservicesDeployment",
+            "deploymentGroups" : [ "Default" ],
+            "instanceId" : 1,
+            "containerId" : "13"
+          } ]
+        } ]
+      }, {
+        "id" : "67",
+        "tags" : "Element,Deployment Node",
+        "name" : "Elastic Search Database - Database Server",
+        "environment" : "MicroservicesDeployment",
+        "technology" : "Elastic Search Database",
+        "instances" : "1",
+        "children" : [ {
+          "id" : "68",
+          "tags" : "Element,Deployment Node",
+          "name" : "AWS OpenSearch",
+          "environment" : "MicroservicesDeployment",
+          "instances" : "1",
+          "containerInstances" : [ {
+            "id" : "69",
             "tags" : "Container Instance",
             "environment" : "MicroservicesDeployment",
             "deploymentGroups" : [ "Default" ],
@@ -361,39 +539,60 @@
           } ]
         } ]
       }, {
-        "id" : "43",
+        "id" : "57",
         "tags" : "Element,Deployment Node",
         "name" : "Docker Container - Web Server",
         "environment" : "MicroservicesDeployment",
         "technology" : "Docker",
         "instances" : "1",
         "children" : [ {
-          "id" : "44",
+          "id" : "58",
           "tags" : "Element,Deployment Node",
-          "name" : "Apache Tomcat",
+          "name" : "AWS EKS",
           "environment" : "MicroservicesDeployment",
           "instances" : "1",
           "containerInstances" : [ {
-            "id" : "45",
+            "id" : "61",
             "tags" : "Container Instance",
             "relationships" : [ {
-              "id" : "50",
-              "sourceId" : "45",
-              "destinationId" : "49",
+              "id" : "66",
+              "sourceId" : "61",
+              "destinationId" : "64",
+              "description" : "It reads data from Read/Write Relational Database",
+              "linkedRelationshipId" : "26"
+            } ],
+            "environment" : "MicroservicesDeployment",
+            "deploymentGroups" : [ "Default" ],
+            "instanceId" : 1,
+            "containerId" : "12"
+          }, {
+            "id" : "59",
+            "tags" : "Container Instance",
+            "relationships" : [ {
+              "id" : "65",
+              "sourceId" : "59",
+              "destinationId" : "64",
               "description" : "Read data from and write data to Read/Write Relational Database",
+              "linkedRelationshipId" : "22"
+            } ],
+            "environment" : "MicroservicesDeployment",
+            "deploymentGroups" : [ "Default" ],
+            "instanceId" : 1,
+            "containerId" : "8"
+          }, {
+            "id" : "60",
+            "tags" : "Container Instance",
+            "relationships" : [ {
+              "id" : "70",
+              "sourceId" : "60",
+              "destinationId" : "69",
+              "description" : "Use ElasticSearch as the Search Database for searching read-only records",
               "linkedRelationshipId" : "21"
             } ],
             "environment" : "MicroservicesDeployment",
             "deploymentGroups" : [ "Default" ],
             "instanceId" : 1,
             "containerId" : "7"
-          }, {
-            "id" : "46",
-            "tags" : "Container Instance",
-            "environment" : "MicroservicesDeployment",
-            "deploymentGroups" : [ "Default" ],
-            "instanceId" : 1,
-            "containerId" : "6"
           } ]
         } ]
       } ]
@@ -404,11 +603,10 @@
     "systemContextViews" : [ {
       "key" : "Level1",
       "order" : 1,
-      "softwareSystemId" : "5",
-      "paperSize" : "A5_Portrait",
+      "softwareSystemId" : "6",
       "dimensions" : {
-        "width" : 1616,
-        "height" : 2016
+        "width" : 1600,
+        "height" : 1900
       },
       "automaticLayout" : {
         "implementation" : "Graphviz",
@@ -421,31 +619,31 @@
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
         "id" : "1",
-        "x" : 258,
-        "y" : 208
+        "x" : 199,
+        "y" : 200
       }, {
         "id" : "2",
-        "x" : 958,
-        "y" : 208
-      }, {
-        "id" : "3",
-        "x" : 208,
-        "y" : 1508
+        "x" : 949,
+        "y" : 200
       }, {
         "id" : "4",
-        "x" : 958,
-        "y" : 1508
+        "x" : 199,
+        "y" : 1400
       }, {
         "id" : "5",
-        "x" : 583,
-        "y" : 908
+        "x" : 949,
+        "y" : 1400
+      }, {
+        "id" : "6",
+        "x" : 574,
+        "y" : 800
       } ],
       "relationships" : [ {
-        "id" : "18"
+        "id" : "35"
       }, {
-        "id" : "29"
+        "id" : "20"
       }, {
-        "id" : "33"
+        "id" : "30"
       }, {
         "id" : "19"
       } ]
@@ -453,11 +651,10 @@
     "containerViews" : [ {
       "key" : "Container",
       "order" : 2,
-      "softwareSystemId" : "5",
-      "paperSize" : "A3_Landscape",
+      "softwareSystemId" : "6",
       "dimensions" : {
-        "width" : 4795,
-        "height" : 2925
+        "width" : 4921,
+        "height" : 2665
       },
       "automaticLayout" : {
         "implementation" : "Graphviz",
@@ -469,76 +666,81 @@
       },
       "externalSoftwareSystemBoundariesVisible" : true,
       "elements" : [ {
-        "id" : "11",
-        "x" : 921,
-        "y" : 1608
-      }, {
         "id" : "12",
-        "x" : 2729,
-        "y" : 958
+        "x" : 962,
+        "y" : 1400
       }, {
         "id" : "13",
-        "x" : 1671,
-        "y" : 1608
+        "x" : 2020,
+        "y" : 800
       }, {
         "id" : "14",
-        "x" : 2200,
-        "y" : 2208
+        "x" : 1712,
+        "y" : 1400
       }, {
         "id" : "15",
-        "x" : 921,
-        "y" : 2208
+        "x" : 2241,
+        "y" : 2000
       }, {
         "id" : "16",
-        "x" : 2729,
-        "y" : 1608
+        "x" : 962,
+        "y" : 2000
       }, {
         "id" : "17",
-        "x" : 3387,
-        "y" : 2208
+        "x" : 2770,
+        "y" : 1400
+      }, {
+        "id" : "18",
+        "x" : 3520,
+        "y" : 1400
       }, {
         "id" : "1",
-        "x" : 208,
-        "y" : 908
+        "x" : 199,
+        "y" : 800
       }, {
         "id" : "2",
-        "x" : 1629,
-        "y" : 208
-      }, {
-        "id" : "3",
-        "x" : 4096,
-        "y" : 1608
+        "x" : 2020,
+        "y" : 200
       }, {
         "id" : "4",
-        "x" : 4137,
-        "y" : 2208
+        "x" : 4270,
+        "y" : 1400
       }, {
-        "id" : "6",
-        "x" : 1229,
-        "y" : 958
+        "id" : "5",
+        "x" : 4178,
+        "y" : 2000
       }, {
         "id" : "7",
-        "x" : 1979,
-        "y" : 958
+        "x" : 1270,
+        "y" : 800
+      }, {
+        "id" : "8",
+        "x" : 2770,
+        "y" : 800
       } ],
       "relationships" : [ {
+        "id" : "21"
+      }, {
         "id" : "32",
         "vertices" : [ {
-          "x" : 4017,
-          "y" : 2208
+          "x" : 3399,
+          "y" : 1400
+        }, {
+          "x" : 2620,
+          "y" : 1100
         } ]
-      }, {
-        "id" : "21"
       }, {
         "id" : "31",
         "vertices" : [ {
-          "x" : 3562,
-          "y" : 1608
+          "x" : 2620,
+          "y" : 592
         } ]
       }, {
-        "id" : "20"
-      }, {
-        "id" : "30"
+        "id" : "29",
+        "vertices" : [ {
+          "x" : 1870,
+          "y" : 592
+        } ]
       }, {
         "id" : "28"
       }, {
@@ -546,40 +748,45 @@
       }, {
         "id" : "26"
       }, {
-        "id" : "25"
-      }, {
-        "id" : "35"
-      }, {
-        "id" : "24",
+        "id" : "37",
         "vertices" : [ {
-          "x" : 2579,
-          "y" : 1308
-        }, {
-          "x" : 4017,
-          "y" : 1608
+          "x" : 3245,
+          "y" : 1550
         } ]
       }, {
-        "id" : "34"
+        "id" : "25",
+        "vertices" : [ {
+          "x" : 4149,
+          "y" : 1400
+        } ]
+      }, {
+        "id" : "36"
+      }, {
+        "id" : "24"
+      }, {
+        "id" : "34",
+        "vertices" : [ {
+          "x" : 3237,
+          "y" : 1700
+        } ]
       }, {
         "id" : "23"
       }, {
         "id" : "22",
         "vertices" : [ {
-          "x" : 2579,
-          "y" : 1308
-        }, {
-          "x" : 3329,
-          "y" : 1608
+          "x" : 2620,
+          "y" : 1400
         } ]
+      }, {
+        "id" : "33"
       } ]
     } ],
     "componentViews" : [ {
       "key" : "ServiceBook",
       "order" : 3,
-      "paperSize" : "A3_Portrait",
       "dimensions" : {
-        "width" : 2504,
-        "height" : 2616
+        "width" : 2370,
+        "height" : 2500
       },
       "automaticLayout" : {
         "implementation" : "Graphviz",
@@ -589,58 +796,141 @@
         "edgeSeparation" : 0,
         "vertices" : false
       },
-      "containerId" : "7",
+      "containerId" : "8",
       "externalContainerBoundariesVisible" : true,
       "elements" : [ {
+        "id" : "11",
+        "x" : 969,
+        "y" : 1400
+      }, {
         "id" : "2",
-        "x" : 1104,
-        "y" : 208
+        "x" : 969,
+        "y" : 200
       }, {
-        "id" : "14",
-        "x" : 1829,
-        "y" : 1508
+        "id" : "4",
+        "x" : 219,
+        "y" : 2000
       }, {
-        "id" : "3",
-        "x" : 1079,
-        "y" : 2108
+        "id" : "15",
+        "x" : 1719,
+        "y" : 1400
       }, {
-        "id" : "17",
-        "x" : 329,
-        "y" : 2108
-      }, {
-        "id" : "8",
-        "x" : 1079,
-        "y" : 908
+        "id" : "18",
+        "x" : 969,
+        "y" : 2000
       }, {
         "id" : "9",
-        "x" : 1079,
-        "y" : 1508
+        "x" : 969,
+        "y" : 800
       }, {
         "id" : "10",
-        "x" : 329,
-        "y" : 1508
+        "x" : 219,
+        "y" : 1400
       } ],
       "relationships" : [ {
-        "id" : "37"
-      }, {
         "id" : "40"
       }, {
-        "id" : "36"
-      }, {
         "id" : "41"
+      }, {
+        "id" : "42"
+      }, {
+        "id" : "43"
       }, {
         "id" : "38"
       }, {
         "id" : "39"
       } ]
     } ],
+    "dynamicViews" : [ {
+      "key" : "Workflow",
+      "order" : 5,
+      "title" : "Workflow CI/CD for deploying",
+      "dimensions" : {
+        "width" : 1640,
+        "height" : 3191
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "elementId" : "44",
+      "externalBoundariesVisible" : true,
+      "relationships" : [ {
+        "id" : "50",
+        "description" : "Developer commit and push changes to a source code repository",
+        "order" : "1",
+        "response" : false
+      }, {
+        "id" : "52",
+        "description" : "A webhook on the code repository triggers a CodePipeline build in the AWS Cloud",
+        "order" : "2",
+        "response" : true,
+        "vertices" : [ {
+          "x" : 669,
+          "y" : 1250
+        } ]
+      }, {
+        "id" : "52",
+        "description" : "Downloads the source code and starts the build process",
+        "order" : "3",
+        "response" : false,
+        "vertices" : [ {
+          "x" : 969,
+          "y" : 1250
+        } ]
+      }, {
+        "id" : "53",
+        "description" : "Downloads the necessary source files and starts running commands to build and tag a local Docker container image",
+        "order" : "4",
+        "response" : false
+      }, {
+        "id" : "54",
+        "description" : "pushes the container image to Amazon ECR.",
+        "order" : "5",
+        "response" : false
+      }, {
+        "id" : "55",
+        "description" : "CodeBuild deploys image on Amazon EKS",
+        "order" : "6",
+        "response" : false
+      } ],
+      "elements" : [ {
+        "id" : "45",
+        "x" : 594,
+        "y" : 800
+      }, {
+        "id" : "46",
+        "x" : 594,
+        "y" : 1400
+      }, {
+        "id" : "3",
+        "x" : 594,
+        "y" : 200
+      }, {
+        "id" : "47",
+        "x" : 594,
+        "y" : 2000
+      }, {
+        "id" : "48",
+        "x" : 219,
+        "y" : 2600
+      }, {
+        "id" : "49",
+        "x" : 969,
+        "y" : 2600
+      } ]
+    } ],
     "deploymentViews" : [ {
       "key" : "AWS-DEV",
       "order" : 4,
       "description" : "Microservices Deployment",
-      "softwareSystemId" : "5",
+      "softwareSystemId" : "6",
       "dimensions" : {
-        "width" : 1720,
+        "width" : 4412,
         "height" : 1783
       },
       "automaticLayout" : {
@@ -653,52 +943,132 @@
       },
       "environment" : "MicroservicesDeployment",
       "elements" : [ {
-        "id" : "44",
-        "x" : 175,
-        "y" : 175
-      }, {
-        "id" : "45",
-        "x" : 1010,
-        "y" : 259
-      }, {
-        "id" : "46",
+        "id" : "77",
         "x" : 260,
-        "y" : 259
+        "y" : 260
       }, {
-        "id" : "47",
+        "id" : "67",
         "x" : 175,
         "y" : 175
       }, {
-        "id" : "48",
+        "id" : "56",
         "x" : 175,
         "y" : 175
       }, {
-        "id" : "49",
-        "x" : 1010,
-        "y" : 1009
-      }, {
-        "id" : "42",
+        "id" : "68",
         "x" : 175,
         "y" : 175
       }, {
-        "id" : "43",
+        "id" : "57",
+        "x" : 175,
+        "y" : 175
+      }, {
+        "id" : "69",
+        "x" : 1231,
+        "y" : 1010
+      }, {
+        "id" : "58",
+        "x" : 175,
+        "y" : 175
+      }, {
+        "id" : "59",
+        "x" : 2952,
+        "y" : 260
+      }, {
+        "id" : "71",
+        "x" : 175,
+        "y" : 175
+      }, {
+        "id" : "60",
+        "x" : 2202,
+        "y" : 260
+      }, {
+        "id" : "72",
+        "x" : 175,
+        "y" : 175
+      }, {
+        "id" : "61",
+        "x" : 3702,
+        "y" : 260
+      }, {
+        "id" : "73",
+        "x" : 1231,
+        "y" : 260
+      }, {
+        "id" : "62",
+        "x" : 175,
+        "y" : 175
+      }, {
+        "id" : "63",
+        "x" : 175,
+        "y" : 175
+      }, {
+        "id" : "75",
+        "x" : 175,
+        "y" : 175
+      }, {
+        "id" : "64",
+        "x" : 3327,
+        "y" : 1010
+      }, {
+        "id" : "76",
         "x" : 175,
         "y" : 175
       } ],
       "relationships" : [ {
-        "id" : "50"
+        "id" : "70"
+      }, {
+        "id" : "74"
+      }, {
+        "id" : "65"
+      }, {
+        "id" : "78"
+      }, {
+        "id" : "66"
       } ]
     } ],
     "configuration" : {
       "branding" : { },
       "styles" : {
         "elements" : [ {
+          "tag" : "User",
+          "background" : "#ffffff",
+          "stroke" : "#1a83dc",
+          "border" : "Dashed"
+        }, {
+          "tag" : "person",
+          "background" : "#ffffff"
+        }, {
           "tag" : "External System",
-          "background" : "#999999",
-          "color" : "#ffffff"
+          "background" : "#ffffff",
+          "border" : "Dashed"
         }, {
           "tag" : "Database",
+          "background" : "#ffffff",
+          "stroke" : "#0078d4",
+          "color" : "#50e6ff",
           "shape" : "Cylinder"
+        }, {
+          "tag" : "App",
+          "background" : "#ffffff",
+          "stroke" : "#0078d4"
+        }, {
+          "tag" : "Api",
+          "background" : "#ffffff",
+          "stroke" : "#0078d4",
+          "border" : "Solid"
+        }, {
+          "tag" : "deployment",
+          "background" : "#ffffff",
+          "stroke" : "#1a83dc",
+          "color" : "#50e6ff",
+          "border" : "Dashed"
+        }, {
+          "tag" : "service",
+          "background" : "#ffffff",
+          "stroke" : "#1a83dc",
+          "color" : "#1a83dc",
+          "border" : "Dashed"
         } ],
         "relationships" : [ {
           "tag" : "Relationship",
@@ -713,10 +1083,10 @@
           "dashed" : true
         } ]
       },
-      "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ],
+      "themes" : [ "https://static.structurizr.com/themes/microsoft-azure-2023.01.24/theme.json" ],
       "terminology" : { },
       "metadataSymbols" : "SquareBrackets",
-      "lastSavedView" : "AWS-DEV"
+      "lastSavedView" : "Level1"
     }
   }
 }
